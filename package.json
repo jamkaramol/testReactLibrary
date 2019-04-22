@@ -2,7 +2,7 @@
   "name": "@amol_b_jamkar/testreactlibrary",
   "version": "0.0.4",
   "description": "Test component to learn how to create library",
-  "main": "index.js",
+  "main": "dist/testButton.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack --mode production",
