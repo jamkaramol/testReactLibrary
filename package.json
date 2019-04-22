@@ -1,6 +1,6 @@
 {
   "name": "@amol_b_jamkar/testreactlibrary",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Test component to learn how to create library",
   "main": "index.js",
   "scripts": {
