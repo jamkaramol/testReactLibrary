@@ -4,7 +4,8 @@ module.exports = {
   entry: "./src/index.js",
   output: {
     path: path.resolve(__dirname,"dist/"),
-    filename: "testButton.js"
+    filename: "testButton.js",
+    libraryTarget: 'umd'
   },
   module: {
     rules: [
